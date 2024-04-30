@@ -10,12 +10,12 @@ I am a student majoring in Artificial Intelligence at Dong A University, Da Nang
 <br>
 <br>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2&pause=1000&color=29F723&background=39FFF000&random=false&width=435&lines=%F0%9F%9A%80++Programming+languages)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2&pause=1000&color=29F723&background=39FFF000&random=false&repeat=false&width=435&lines=%F0%9F%9A%80++Programming+languages)](https://git.io/typing-svg)
 
 <img src="https://skillicons.dev/icons?i=js,ts,py," />
 <br>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2&pause=1000&color=F714DF&background=39FFF000&random=false&width=435&lines=%E2%98%98%EF%B8%8F+Frameworks%2F+Platforms)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2&pause=1000&color=F714DF&background=39FFF000&random=false&repeat=false&width=435&lines=%E2%98%98%EF%B8%8F+Frameworks%2F+Platforms)](https://git.io/typing-svg)
 
 **[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2&pause=1000&color=F772A7&background=39FFF000&random=false&width=435&lines=Frontend)](https://git.io/typing-svg)**
 <br>
@@ -26,7 +26,7 @@ I am a student majoring in Artificial Intelligence at Dong A University, Da Nang
 <br>
 <br>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2&pause=1000&color=00F70A&background=39FFF000&random=false&width=435&lines=%F0%9F%93%A6+Projects)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2&pause=1000&color=00F70A&background=39FFF000&random=false&repeat=false&width=435&lines=%F0%9F%93%A6+Projects)](https://git.io/typing-svg)
 
 - [chaudev.com](http://chaudev.com) - This is an ecommerce website that provides a variety of products.
 

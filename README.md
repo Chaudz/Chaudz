@@ -7,10 +7,14 @@
 </h1>
 
 I am a student majoring in Artificial Intelligence at Dong A University, Da Nang. I am passionate about website programming and have a solid foundation in **HTML**, **CSS**, **Typescript**, **Javascript**
+<br>
+<br>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2&pause=1000&color=29F723&background=39FFF000&random=false&width=435&lines=%F0%9F%9A%80++Programming+languages)](https://git.io/typing-svg)
 
-<img src="https://skillicons.dev/icons?i=js,ts,py," /><br>
+<img src="https://skillicons.dev/icons?i=js,ts,py," />
+<br>
+<br>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2&pause=1000&color=F714DF&background=39FFF000&random=false&width=435&lines=%E2%98%98%EF%B8%8F+Frameworks%2F+Platforms)](https://git.io/typing-svg)
 
@@ -19,7 +23,9 @@ I am a student majoring in Artificial Intelligence at Dong A University, Da Nang
 <img src="https://skillicons.dev/icons?i=react,next,redux,sass,mui,bootstrap,jquery,tailwindcss" /><br> <br>
 **[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2&pause=1000&color=964BF7&background=39FFF000&random=false&width=435&lines=Backend)](https://git.io/typing-svg)**
 <br>
-<img src="https://skillicons.dev/icons?i=nest,graphql,nodejs,express," /><br>
+<img src="https://skillicons.dev/icons?i=nest,graphql,nodejs,express," />
+<br>
+<br>
 
 ## 📦 Projects
 

@@ -35,5 +35,5 @@ I am a student majoring in Artificial Intelligence at Dong A University, Da Nang
 <h2 align="center">🐍 Just a snake eating my contributions</h2>
 <a href="https://www.facebook.com/"></a>
 <p align='center'>
-  <img src="https://github.com/luan-thnh/luan-thnh/blob/main/github-user-contribution.svg">
+  <img src="https://github.com/Chaudz">
 </p>

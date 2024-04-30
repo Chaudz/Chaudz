@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tse3.mm.bing.net/th/id/OIG4.l6DiMsV_fKLrB6gcDAgB?pid=ImgGn" style="border-radius: ; height: 200px; object-fit: cover;" alt="Animated Banner" width="800"/>
+  <img src="https://tse3.mm.bing.net/th/id/OIG4.l6DiMsV_fKLrB6gcDAgB?pid=ImgGn" style="border-radius: ; object-fit: cover;" alt="Animated Banner" width="800"/>
 </p>
 
 <h1 align="center">

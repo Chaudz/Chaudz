@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.oaiusercontent.com/file-zzxITBLtVv1ELa9Jw9SMQNaE?se=2024-04-30T09%3A06%3A02Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De51c5372-53d2-458e-b033-bfb89dd71b2d.webp&sig=X8MmjrOUjo2CziWfu8j2Zan0ujODdwu4mlncz/w5CIE%3D" height="200" alt="Animated Banner"/>
+  <img src="https://asset.cloudinary.com/doguzyfn7/b3ea8ef95d868779b38a02049f3ff524" height="200" alt="Animated Banner"/>
 </p>
 
 <h1 align="center">

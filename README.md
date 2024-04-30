@@ -14,11 +14,11 @@ I am a student majoring in Artificial Intelligence at Dong A University, Da Nang
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2&pause=1000&color=F714DF&background=39FFF000&random=false&width=435&lines=%E2%98%98%EF%B8%8F+Frameworks%2F+Platforms)](https://git.io/typing-svg)
 
-## Frontend
+* Frontend
 
 <img src="https://skillicons.dev/icons?i=react,next,redux,sass,mui,bootstrap,jquery,tailwindcss" /><br> <br>
 
-## Backend
+* Backend
 
 <img src="https://skillicons.dev/icons?i=nest,graphql,nodejs,express," /><br>
 

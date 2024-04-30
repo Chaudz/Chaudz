@@ -31,9 +31,6 @@ I am a student majoring in Artificial Intelligence at Dong A University, Da Nang
 - **Email:** [buichau40@gmail.com](mailto:buichau40@gmail.com)
 - **Website:** [chaudev.com](http://chaudev.com)
 
-
-<h2 align="center">🐍 Just a snake eating my contributions</h2>
-<a href="https://www.facebook.com/"></a>
 <p align='center'>
   <img src="https://github.com/Chaudz/contribution-icon/blob/main/contribute.svg">
 </p>

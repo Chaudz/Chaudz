@@ -25,7 +25,7 @@ I am a student majoring in Artificial Intelligence at Dong A University, Da Nang
 <img src="https://skillicons.dev/icons?i=nest,graphql,nodejs,express," />
 <br>
 
-## 📦 Projects
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2&pause=1000&color=00F70A&background=39FFF000&random=false&width=435&lines=%F0%9F%93%A6+Projects)](https://git.io/typing-svg)
 
 - [chaudev.com](http://chaudev.com) - This is an ecommerce website that provides a variety of products.
 

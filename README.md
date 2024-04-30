@@ -17,12 +17,13 @@ I am a student majoring in Artificial Intelligence at Dong A University, Da Nang
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2&pause=1000&color=F714DF&background=39FFF000&random=false&width=435&lines=%E2%98%98%EF%B8%8F+Frameworks%2F+Platforms)](https://git.io/typing-svg)
 
-**[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2&pause=1000&color=F772A7&background=39FFF000&random=false&width=435&lines=Frontend)](https://git.io/typing-svg)**
+**[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2&pause=1000&color=F772A7&background=39FFF000&random=false&width=435&lines=Frontend)](https://git.io/typing-svg)**
 <br>
 <img src="https://skillicons.dev/icons?i=react,next,redux,sass,mui,bootstrap,jquery,tailwindcss" /><br> <br>
-**[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2&pause=1000&color=964BF7&background=39FFF000&random=false&width=435&lines=Backend)](https://git.io/typing-svg)**
+**[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2&pause=1000&color=964BF7&background=39FFF000&random=false&width=435&lines=Backend)](https://git.io/typing-svg)**
 <br>
 <img src="https://skillicons.dev/icons?i=nest,graphql,nodejs,express," />
+<br>
 <br>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2&pause=1000&color=00F70A&background=39FFF000&random=false&width=435&lines=%F0%9F%93%A6+Projects)](https://git.io/typing-svg)
@@ -33,5 +34,4 @@ I am a student majoring in Artificial Intelligence at Dong A University, Da Nang
 
 - **Email:** [buichau40@gmail.com](mailto:buichau40@gmail.com)
 - **Website:** [chaudev.com](http://chaudev.com)
-
-
+- **Facebook:** [myFacebook](https://www.facebook.com/mi.bui.923)

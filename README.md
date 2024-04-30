@@ -27,6 +27,11 @@ I am a student majoring in Artificial Intelligence at Dong A University , Da Nan
 <img src="https://skillicons.dev/icons?i=nest,graphql,nodejs,express," />
 <br>
 <br>
+**[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F77085&repeat=false&random=false&width=435&lines=Tools)](https://git.io/typing-svg)**
+<br>
+<img src="https://skillicons.dev/icons?i=github,docker" />
+<br>
+<br>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2&pause=1000&color=00F70A&background=39FFF000&random=false&repeat=false&width=435&lines=%F0%9F%93%A6+Projects)](https://git.io/typing-svg)
 

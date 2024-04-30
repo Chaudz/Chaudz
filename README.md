@@ -16,11 +16,11 @@ I am a student majoring in Artificial Intelligence at Dong A University, Da Nang
 
 * **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,next,redux,sass,mui,bootstrap,jquery,tailwindcss" /><br> <br>
+* <img src="https://skillicons.dev/icons?i=react,next,redux,sass,mui,bootstrap,jquery,tailwindcss" /><br> <br>
 
 * **Backend**
 
-<img src="https://skillicons.dev/icons?i=nest,graphql,nodejs,express," /><br>
+* * <img src="https://skillicons.dev/icons?i=nest,graphql,nodejs,express," /><br>
 
 ## 📦 Projects
 

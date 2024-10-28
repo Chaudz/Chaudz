@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://res.cloudinary.com/doguzyfn7/image/upload/v1714469400/avaaa_zhrws3.jpg](https://res.cloudinary.com/doguzyfn7/image/upload/v1730081753/%E4%B8%AD%E7%A7%8B3D_iqb9nd.png)" height="200" alt="Animated Banner"/>
+  <img src="https://res.cloudinary.com/doguzyfn7/image/upload/v1730081753/%E4%B8%AD%E7%A7%8B3D_iqb9nd.png" height="200" alt="Animated Banner"/>
 </p>
 
 <p align="center">

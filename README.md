@@ -1,51 +1,69 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/doguzyfn7/image/upload/v1730081753/%E4%B8%AD%E7%A7%8B3D_iqb9nd.png" height="200" width="100" alt="Animated Banner"/>
+  <img src="https://res.cloudinary.com/doguzyfn7/image/upload/v1730081753/%E4%B8%AD%E7%A7%8B3D_iqb9nd.png" height="180" alt="Animated Banner"/>
 </p>
 
 <p align="center">
-    <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&pause=1000&color=F70303&background=39FFF000&random=false&width=435&lines=Hi+there%2C+I'm+Chou+%F0%9F%91%8B;I'm+a+web+development%F0%9F%91%8B" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F70303&center=true&vCenter=true&width=500&lines=Charles+Bennett;Fullstack+AI+Engineer;Building+the+Future+of+SaaS" alt="Typing SVG" />
   </a>
 </p>
 
-I am a student majoring in Artificial Intelligence at Dong A University , Da Nang 🎓🎓. I am passionate about website programming and have a solid foundation in **HTML**, **CSS**, **Typescript**, **Javascript**
-<br>
-<br>
+---
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2&pause=1000&color=29F723&background=39FFF000&random=false&repeat=false&width=435&lines=%F0%9F%9A%80++Programming+languages)](https://git.io/typing-svg)
+### 👨‍💻 About Me
+I am a **Senior-focused AI & Fullstack Engineer** based in Da Nang, Vietnam 🇻🇳. Currently majoring in Artificial Intelligence at Dong A University, I bridge the gap between **Complex Machine Learning** and **High-Performance Web Architectures**.
 
-<img src="https://skillicons.dev/icons?i=js,ts,py," />
-<br>
+My philosophy: **"Code is for humans to read, and only incidentally for machines to execute."**
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2&pause=1000&color=F714DF&background=39FFF000&random=false&repeat=false&width=435&lines=%E2%98%98%EF%B8%8F+Frameworks%2F+Platforms)](https://git.io/typing-svg)
+- 🔭 I’m currently building **Vantage Docs** – An AI-Native tool that automates technical documentation.
+- 🧠 Deeply interested in **LLM Orchestration (LangChain)**, **RAG Systems**, and **Cloud Microservices**.
+- ⚡ High proficiency in building scalable Backends with **NestJS** and Type-safe Frontends with **Next.js 15**.
 
-**[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2&pause=1000&repeat=false&color=F772A7&background=39FFF000&random=false&width=435&lines=Frontend)](https://git.io/typing-svg)**
-<br>
-<img src="https://skillicons.dev/icons?i=react,next,redux,sass,mui,bootstrap,jquery,tailwindcss" /><br> <br>
-**[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2&pause=1000&color=964BF7&repeat=false&background=39FFF000&random=false&width=435&lines=Backend)](https://git.io/typing-svg)**
-<br>
-<img src="https://skillicons.dev/icons?i=nest,graphql,nodejs,express," />
-<br>
-<br>
-**[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F77085&repeat=false&random=false&width=435&lines=Tools)](https://git.io/typing-svg)**
-<br>
-<img src="https://skillicons.dev/icons?i=github,docker" />
-<br>
-<br>
+---
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=1&pause=1000&color=BD81F7&repeat=false&random=false&width=435&lines=%F0%9F%97%84%EF%B8%8F+Database)](https://git.io/typing-svg)
+### 🛠️ Core Tech Stack
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
-<br>
+#### 🌐 Web Engineering (High Performance & Scalable)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,next,react,redux,tailwind,sass,mui" />
+</p>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2&pause=1000&color=00F70A&background=39FFF000&random=false&repeat=false&width=435&lines=%F0%9F%93%A6+Projects)](https://git.io/typing-svg)
+#### ⚙️ Backend Architecture & AI Logic
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nest,nodejs,express,graphql,py" />
+</p>
 
-  <br>
+#### 🗄️ Data Modeling & Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,docker,github,git" />
+</p>
 
+---
 
+### 🚀 Featured Project: Vantage Docs
+**The AI-Powered Technical Architect.** *Automate READMEs and System Flowcharts directly from your GitHub Source Code.*
 
-## 📫 How to reach me:
+- **Backend:** NestJS, Octokit (GitHub API), LangChain (GPT-4o/Gemini integration).
+- **Frontend:** Next.js 15, Shadcn UI, Mermaid.js for dynamic diagrams.
+- **Impact:** Reduces documentation time by **95%** for open-source maintainers.
 
+[👉 View Repository](https://github.com/your-username/vantage-docs)
+
+---
+
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+</p>
+
+---
+
+### 📫 Connect with me
 - **Email:** [buichau40@gmail.com](mailto:buichau40@gmail.com)
-- **Website:** [chaudev.com](http://chaudev.com)
-- **Facebook:** [myFacebook](https://www.facebook.com/mi.bui.923)
+- **LinkedIn:** [Charles Bennett](#)
+- **Facebook:** [Bui Chau](https://www.facebook.com/mi.bui.923)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+</p>

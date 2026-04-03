@@ -11,11 +11,10 @@
 ---
 
 ### 👨‍💻 About Me
-I am a **Senior-focused AI & Fullstack Engineer** based in Da Nang, Vietnam 🇻🇳. Currently majoring in Artificial Intelligence at Dong A University, I bridge the gap between **Complex Machine Learning** and **High-Performance Web Architectures**.
+I am a **focused AI & Fullstack Engineer** based in Da Nang, Vietnam 🇻🇳.Graduated with a degree in software engineering from Dong A University, I bridge the gap between **Complex Machine Learning** and **High-Performance Web Architectures**.
 
 My philosophy: **"Code is for humans to read, and only incidentally for machines to execute."**
 
-- 🔭 I’m currently building **Vantage Docs** – An AI-Native tool that automates technical documentation.
 - 🧠 Deeply interested in **LLM Orchestration (LangChain)**, **RAG Systems**, and **Cloud Microservices**.
 - ⚡ High proficiency in building scalable Backends with **NestJS** and Type-safe Frontends with **Next.js 15**.
 
@@ -47,21 +46,10 @@ My philosophy: **"Code is for humans to read, and only incidentally for machines
 - **Frontend:** Next.js 15, Shadcn UI, Mermaid.js for dynamic diagrams.
 - **Impact:** Reduces documentation time by **95%** for open-source maintainers.
 
-[👉 View Repository](https://github.com/your-username/vantage-docs)
-
----
-
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
-</p>
-
----
 
 ### 📫 Connect with me
 - **Email:** [buichau40@gmail.com](mailto:buichau40@gmail.com)
-- **LinkedIn:** [Charles Bennett](#)
+- **LinkedIn:** [Charles Bennett](https://www.linkedin.com/in/charles-bennett-82163b25b)
 - **Facebook:** [Bui Chau](https://www.facebook.com/mi.bui.923)
 
 <p align="center">
